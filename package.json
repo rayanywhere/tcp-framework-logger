@@ -1,0 +1,13 @@
+{
+  "name": "tcp-framework-logger",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "rayanywhere",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "dateformat": "^2.0.0",
+    "fs-extra": "^2.1.2"
+  }
+}
